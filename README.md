@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React, NodeJS, .NET Framework**
 
-- 💬 Ask me about **MEARN, JAVA, MySQL, MongoDB**
+- 💬 Ask me about **MERN, JAVA, MySQL, MongoDB**
 
 - 📫 How to reach me **oshoup521@gmail.com**
 
