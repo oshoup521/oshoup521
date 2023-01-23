@@ -18,11 +18,11 @@
   <img src="https://komarev.com/ghpvc/?username=oshoup521&label=Profile%20views&color=0e75b6&style=flat" alt="oshoup521" />
 </div>
 
-<div align="left"> 
+<!-- <div align="left"> 
   <a href="https://twitter.com/oshoup521" target="blank">
     <img src="https://img.shields.io/twitter/follow/oshoup521?logo=twitter&style=for-the-badge" alt="oshoup521" />
   </a>
-</div>
+</div> -->
 
 
 - 🌱 I’m currently learning **React, NodeJS, .NET Framework**
