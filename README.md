@@ -114,16 +114,17 @@
   </a> 
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="40" height="40"/>
-  </a>
-  <a href="https://www.openai.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/OpenAI_Logo.svg" alt="OpenAI" width="40" height="40"/>
-  </a>
-  <a href="https://en.wikipedia.org/wiki/Artificial_intelligence" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Artificial_Intelligence.svg" alt="AI" width="40" height="40"/>
-  </a>
-  <a href="https://en.wikipedia.org/wiki/Machine_learning" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Logo_machine_learning.svg" alt="ML" width="40" height="40"/>
-  </a>
+</a>
+<a href="https://www.openai.com/" target="_blank" rel="noreferrer">
+    <img src="https://seeklogo.com/images/O/openai-logo-8B9BFEDC26-seeklogo.com.png" alt="OpenAI" width="40" height="40"/>
+</a>
+<a href="https://en.wikipedia.org/wiki/Artificial_intelligence" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/000000/external-artificial-intelligence-computer-science-flaticons-flat-flat-icons.png" alt="AI" width="40" height="40"/>
+</a>
+<a href="https://en.wikipedia.org/wiki/Machine_learning" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/external-justicon-flat-justicon/64/000000/external-machine-learning-education-justicon-flat-justicon.png" alt="ML" width="40" height="40"/>
+</a>
+
 </p>
 
 <p>
