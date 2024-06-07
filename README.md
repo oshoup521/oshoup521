@@ -1,8 +1,8 @@
-<h1 align="center">
+<h1 align="center"> 
   Hi 👋, I'm Osho Upadhyay
 </h1>
 <h3 align="center">
-  A passionate frontend developer from India
+  A passionate Full Stack Developer from India
 </h3>
 <div align="center">
   <img alt="Coder GIF" height=250 width=350 src="https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif" />
@@ -10,56 +10,47 @@
 
 <p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=oshoup521" alt="oshoup521" />
+    <img src="https://github-profile-trophy.vercel.app/?username=oshoup521&theme=darkhub" alt="oshoup521" />
   </a>
 </p>
 
-<div align="left"> 
+<div align="center"> 
   <img src="https://komarev.com/ghpvc/?username=oshoup521&label=Profile%20views&color=0e75b6&style=flat" alt="oshoup521" />
 </div>
 
-<!-- <div align="left"> 
-  <a href="https://twitter.com/oshoup521" target="blank">
-    <img src="https://img.shields.io/twitter/follow/oshoup521?logo=twitter&style=for-the-badge" alt="oshoup521" />
-  </a>
-</div> -->
+- 🌱 I currently work on **React, NodeJS, Python**
 
-
-- 🌱 I’m currently learning **React, NodeJS, .NET Framework**
-
-- 💬 Ask me about **MERN, JAVA, MySQL, MongoDB**
+- 💬 Ask me about **AI, ML, LLM, Python, MERN, JAVA, MySQL, MongoDB, Postgres**
 
 - 📫 How to reach me **oshoup521@gmail.com**
-
-- ⚡ Fun fact **Talk about LIFE...**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://twitter.com/oshoup521" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="oshoup521" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="oshoup521" height="30" width="40" />
   </a>
   &emsp;&emsp;
   <a href="https://linkedin.com/in/osho-upadhyay-545001b1" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="osho upadhyay" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="osho upadhyay" height="30" width="40" />
   </a>
   &emsp;&emsp;
   <a href="https://fb.com/osho.upadhyay.961" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="oshoupadhyay" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="oshoupadhyay" height="30" width="40" />
   </a>
   &emsp;&emsp;
   <a href="https://instagram.com/imoshoupadhyay" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="imoshoupadhyay" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="imoshoupadhyay" height="30" width="40" />
   </a>
   &emsp;&emsp;
   <a href="https://www.leetcode.com/oshoup521" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="oshoup521" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="oshoup521" height="30" width="40" />
   </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40"           height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
   </a>
   <a href="https://babeljs.io/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/>
@@ -121,6 +112,18 @@
   <a href="https://spring.io/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
   </a> 
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="40" height="40"/>
+  </a>
+  <a href="https://www.openai.com/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/OpenAI_Logo.svg" alt="OpenAI" width="40" height="40"/>
+  </a>
+  <a href="https://en.wikipedia.org/wiki/Artificial_intelligence" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Artificial_Intelligence.svg" alt="AI" width="40" height="40"/>
+  </a>
+  <a href="https://en.wikipedia.org/wiki/Machine_learning" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Logo_machine_learning.svg" alt="ML" width="40" height="40"/>
+  </a>
 </p>
 
 <p>
