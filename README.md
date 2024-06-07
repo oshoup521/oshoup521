@@ -116,7 +116,7 @@
     <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="40" height="40"/>
 </a>
 <a href="https://www.openai.com/" target="_blank" rel="noreferrer">
-    <img src="[https://seeklogo.com/images/O/openai-logo-8B9BFEDC26-seeklogo.com.png](https://cdn.iconscout.com/icon/free/png-256/free-openai-7601069-6138535.png?f=webp)" alt="OpenAI" width="40" height="40"/>
+    <img src="https://seeklogo.com/images/O/openai-logo-8B9BFEDC26-seeklogo.com.png" alt="OpenAI" width="40" height="40"/>
 </a>
 <a href="https://en.wikipedia.org/wiki/Artificial_intelligence" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/000000/external-artificial-intelligence-computer-science-flaticons-flat-flat-icons.png" alt="AI" width="40" height="40"/>
