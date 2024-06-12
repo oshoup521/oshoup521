@@ -20,7 +20,7 @@
 
 - 🌱 I currently work on **Python, AI, ML, LLM, VectorDB, ReactJS, NodeJS, MongoDB, postgresDB**
 
-- 💬 Ask me about **AI, ML, LLM, Python, MERN, JAVA, MySQL, MongoDB, Postgres**
+- 💬 Ask me about **openai, local LLM, llama, Fine Tuning, chat completions**
 
 - 📫 How to reach me **oshoup521@gmail.com**
 
