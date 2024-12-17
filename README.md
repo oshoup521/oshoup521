@@ -18,7 +18,7 @@
   <img src="https://komarev.com/ghpvc/?username=oshoup521&label=Profile%20views&color=0e75b6&style=flat" alt="oshoup521" />
 </div>
 
-- 🌱 I currently work on **Python, AI, ML, LLM, VectorDB, ReactJS, NodeJS, MongoDB, postgresDB**
+- 🌱 I currently work on **NodeJS, LLM, Python, AI, ML, VectorDB, ReactJS, MongoDB, postgresDB**
 
 - 💬 Ask me about **openai, local LLM, llama, Fine Tuning, chat completions**
 
