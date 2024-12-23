@@ -18,7 +18,7 @@
 
 - 👯 I’m looking to collaborate on [Chatminds](https://ai.google.dev/competition/projects/chatminds)
 
-- 👨‍💻 All of my projects are available at [https://one-jade-three.vercel.app/](https://one-jade-three.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://one-oshoup521.vercel.app](https://one-oshoup521.vercel.app)
 
 - 📝 I regularly write articles on [https://oshotrips.wordpress.com/](https://oshotrips.wordpress.com/)
 
