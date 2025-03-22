@@ -372,6 +372,30 @@
       </a>
       <br>TypeScript
     </td>
+    <td align="center" width="96">
+      <a href="https://sass-lang.com" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="48" height="48" alt="Sass" />
+      </a>
+      <br>Sass
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.elastic.co" target="_blank">
+        <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" width="48" height="48" alt="Elasticsearch" />
+      </a>
+      <br>Elasticsearch
+    </td>
+    <td align="center" width="96">
+      <a href="https://golang.org" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="48" height="48" alt="Go" />
+      </a>
+      <br>Go
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.gnu.org/software/bash/" target="_blank">
+        <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="48" height="48" alt="Bash" />
+      </a>
+      <br>Bash
+    </td>
   </tr>
 </table>
 
