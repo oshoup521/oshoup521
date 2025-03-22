@@ -145,139 +145,253 @@
 <hr>
 
 <h3 align="center">Languages and Tools:</h3>
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; max-width: 800px; margin: 0 auto;">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin: 0 auto; max-width: 100%;">
+  <div style="display: inline-block; text-align: center; margin: 10px; width: 70px;">
     <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
       <img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" alt="aws" width="40" height="40" style="background-color:#F1F2F3; padding:2px; border-radius:5px;"/>
+      <br>AWS
     </a>
-  <a href="https://babeljs.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/>
-  </a>&nbsp;
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-  </a>&nbsp;
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>&nbsp;
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  </a>&nbsp;
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-  </a>&nbsp;
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-  </a>&nbsp;
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-  </a>&nbsp;
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/flask.svg" alt="flask" width="40" height="40"/>
-  </a>&nbsp;
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>&nbsp;
-  <a href="https://graphql.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/>
-  </a>&nbsp;
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>&nbsp;
-  <a href="https://jestjs.io" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/>
-  </a>&nbsp;
-  <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/>
-  </a>&nbsp;
-  <a href="https://kubernetes.io" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
-  </a>&nbsp;
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a>&nbsp;
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a>&nbsp;
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>&nbsp;
-  <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/nestjs.svg" alt="nestjs" width="40" height="40"/>
-  </a>&nbsp;
-  <a href="https://www.nginx.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>
-  </a>&nbsp;
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>&nbsp;
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
-  </a>&nbsp;
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-  </a>&nbsp;
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-  </a>&nbsp;
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-  </a>&nbsp;
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>&nbsp;
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
-  </a>&nbsp;
-  <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/>
-  </a>&nbsp;
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>&nbsp;
-  <a href="https://redis.io" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>
-  </a>&nbsp;
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
-  </a>&nbsp;
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
-  </a>&nbsp;
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
-  </a>&nbsp;
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
-  </a>&nbsp;
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  </a>&nbsp;
+  </div>
+  <div style="display: inline-block; text-align: center; margin: 10px; width: 70px;">
+    <a href="https://babeljs.io/" target="_blank" rel="noreferrer">
+      <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/>
+      <br>Babel
+    </a>
+  </div>
+  <div style="display: inline-block; text-align: center; margin: 10px; width: 70px;">
+    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
+      <br>Bootstrap
+    </a>
+  </div>
+  <div style="display: inline-block; text-align: center; margin: 10px; width: 70px;">
+    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+      <br>CSS3
+    </a>
+  </div>
+  <div style="display: inline-block; text-align: center; margin: 10px; width: 70px;">
+    <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+      <br>Docker
+    </a>
+  </div>
+  <div style="display: inline-block; text-align: center; margin: 10px; width: 70px;">
+    <a href="https://expressjs.com" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
+      <br>Express
+    </a>
+  </div>
+  <div style="display: inline-block; text-align: center; margin: 10px; width: 70px;">
+    <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+      <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
+      <br>Figma
+    </a>
+  </div>
+  <div style="display: inline-block; text-align: center; margin: 10px; width: 70px;">
+    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+      <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
+      <br>Firebase
+    </a>
+  </div>
+  <div style="display: inline-block; text-align: center; margin: 10px; width: 70px;">
+    <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
+      <img src="https://cdn.worldvectorlogo.com/logos/flask.svg" alt="flask" width="40" height="40"/>
+      <br>Flask
+    </a>
+  </div>
+  <div style="display: inline-block; text-align: center; margin: 10px; width: 70px;">
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+      <br>Git
+    </a>
+  </div>
+  <div style="display: inline-block; text-align: center; margin: 10px; width: 70px;">
+    <a href="https://graphql.org" target="_blank" rel="noreferrer">
+      <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/>
+      <br>GraphQL
+    </a>
+  </div>
+  <div style="display: inline-block; text-align: center; margin: 10px; width: 70px;">
+    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+      <br>HTML5
+    </a>
+  </div>
+  <div style="display: inline-block; text-align: center; margin: 10px; width: 70px;">
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+      <br>JavaScript
+    </a>
+  </div>
+  <div style="display: inline-block; text-align: center; margin: 10px; width: 70px;">
+    <a href="https://jestjs.io" target="_blank" rel="noreferrer">
+      <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/>
+      <br>Jest
+    </a>
+  </div>
+  <div style="display: inline-block; text-align: center; margin: 10px; width: 70px;">
+    <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
+      <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/>
+      <br>Kafka
+    </a>
+  </div>
+  <div style="display: inline-block; text-align: center; margin: 10px; width: 70px;">
+    <a href="https://kubernetes.io" target="_blank" rel="noreferrer">
+      <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
+      <br>Kubernetes
+    </a>
+  </div>
+  <div style="display: inline-block; text-align: center; margin: 10px; width: 70px;">
+    <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+      <br>Linux
+    </a>
+  </div>
+  <div style="display: inline-block; text-align: center; margin: 10px; width: 70px;">
+    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+      <br>MongoDB
+    </a>
+  </div>
+  <div style="display: inline-block; text-align: center; margin: 10px; width: 70px;">
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+      <br>MySQL
+    </a>
+  </div>
+  <div style="display: inline-block; text-align: center; margin: 10px; width: 70px;">
+    <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
+      <img src="https://cdn.worldvectorlogo.com/logos/nestjs.svg" alt="nestjs" width="40" height="40"/>
+      <br>NestJS
+    </a>
+  </div>
+  <div style="display: inline-block; text-align: center; margin: 10px; width: 70px;">
+    <a href="https://www.nginx.com" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>
+      <br>Nginx
+    </a>
+  </div>
+  <div style="display: inline-block; text-align: center; margin: 10px; width: 70px;">
+    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+      <br>Node.js
+    </a>
+  </div>
+  <div style="display: inline-block; text-align: center; margin: 10px; width: 70px;">
+    <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
+      <br>Oracle
+    </a>
+  </div>
+  <div style="display: inline-block; text-align: center; margin: 10px; width: 70px;">
+    <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
+      <br>Pandas
+    </a>
+  </div>
+  <div style="display: inline-block; text-align: center; margin: 10px; width: 70px;">
+    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+      <br>PostgreSQL
+    </a>
+  </div>
+  <div style="display: inline-block; text-align: center; margin: 10px; width: 70px;">
+    <a href="https://postman.com" target="_blank" rel="noreferrer">
+      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+      <br>Postman
+    </a>
+  </div>
+  <div style="display: inline-block; text-align: center; margin: 10px; width: 70px;">
+    <a href="https://www.python.org" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+      <br>Python
+    </a>
+  </div>
+  <div style="display: inline-block; text-align: center; margin: 10px; width: 70px;">
+    <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
+      <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
+      <br>PyTorch
+    </a>
+  </div>
+  <div style="display: inline-block; text-align: center; margin: 10px; width: 70px;">
+    <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer">
+      <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/>
+      <br>RabbitMQ
+    </a>
+  </div>
+  <div style="display: inline-block; text-align: center; margin: 10px; width: 70px;">
+    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+      <br>React
+    </a>
+  </div>
+  <div style="display: inline-block; text-align: center; margin: 10px; width: 70px;">
+    <a href="https://redis.io" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>
+      <br>Redis
+    </a>
+  </div>
+  <div style="display: inline-block; text-align: center; margin: 10px; width: 70px;">
+    <a href="https://redux.js.org" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
+      <br>Redux
+    </a>
+  </div>
+  <div style="display: inline-block; text-align: center; margin: 10px; width: 70px;">
+    <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
+      <br>scikit-learn
+    </a>
+  </div>
+  <div style="display: inline-block; text-align: center; margin: 10px; width: 70px;">
+    <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
+      <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
+      <br>SQLite
+    </a>
+  </div>
+  <div style="display: inline-block; text-align: center; margin: 10px; width: 70px;">
+    <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
+      <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
+      <br>TensorFlow
+    </a>
+  </div>
+  <div style="display: inline-block; text-align: center; margin: 10px; width: 70px;">
+    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+      <br>TypeScript
+    </a>
+  </div>
 </div>
 
 <hr>
 
-<h3 align="center">📝 Latest Blog Posts</h3>
-<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin: 20px 0;">
-  <div style="display: flex; align-items: center; gap: 10px;">
-    <a href="https://fearfreecode.wordpress.com/2023/01/20/sdm-in-coders-life/">
-      <img src="https://img.shields.io/badge/SDM%20in%20Coder's%20Life-0D76A8?style=for-the-badge&logo=wordpress&logoColor=white" alt="Blog Post 1" />
-    </a>
-    <span style="color: #666; font-size: 14px;">Jan 20, 2023</span>
-  </div>
-  <div style="display: flex; align-items: center; gap: 10px;">
-    <a href="https://fearfreecode.wordpress.com/2023/01/03/clean-code/">
-      <img src="https://img.shields.io/badge/Clean%20Code-4CAF50?style=for-the-badge&logo=wordpress&logoColor=white" alt="Blog Post 2" />
-    </a>
-    <span style="color: #666; font-size: 14px;">Jan 03, 2023</span>
-  </div>
-  <div style="display: flex; align-items: center; gap: 10px;">
-    <a href="https://fearfreecode.wordpress.com/2023/01/20/isomorphic-strings/">
-      <img src="https://img.shields.io/badge/Isomorphic%20Strings-FF5722?style=for-the-badge&logo=wordpress&logoColor=white" alt="Blog Post 3" />
-    </a>
-    <span style="color: #666; font-size: 14px;">Jan 20, 2023</span>
-  </div>
+## 📝 Latest Blog Posts
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://fearfreecode.wordpress.com/2023/01/20/sdm-in-coders-life/">
+          <img src="https://img.shields.io/badge/SDM%20in%20Coder's%20Life-0072b1?style=for-the-badge&logo=wordpress&logoColor=white" alt="SDM in Coder's Life"/>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://fearfreecode.wordpress.com/2023/01/03/clean-code/">
+          <img src="https://img.shields.io/badge/Clean%20Code-4CAF50?style=for-the-badge&logo=wordpress&logoColor=white" alt="Clean Code"/>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://fearfreecode.wordpress.com/2023/01/20/isomorphic-strings/">
+          <img src="https://img.shields.io/badge/Isomorphic%20Strings-FF5722?style=for-the-badge&logo=wordpress&logoColor=white" alt="Isomorphic Strings"/>
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <hr>
@@ -317,13 +431,7 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/oshoup521">
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=oshoup521&theme=dark" alt="oshoup521's streak stats" />
-  </a>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=oshoup521&theme=onedark&row=1&column=6" alt="oshoup521's trophies" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=oshoup521&theme=dark" alt="oshoup521's streak stats" />
 </div>
 
 <div align="center">
