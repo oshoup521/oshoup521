@@ -24,7 +24,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.oshoupadhyay.in](https://www.oshoupadhyay.in)
 
-- 📝 I regularly write articles on [https://oshotrips.wordpress.com/](https://oshotrips.wordpress.com/)
+- 📝 I regularly write articles on [[https://oshotrips.wordpress.com/](https://www.oshoupadhyay.in/blog)]([https://oshotrips.wordpress.com/](https://www.oshoupadhyay.in/blog))
 
 - 💬 Ask me about **LLM, Gen AI, AI/ML Integration, Microservices & gRPC**
 
