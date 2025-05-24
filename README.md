@@ -20,7 +20,7 @@
   </a> 
 </p>
 
-- 👯 I'm looking to collaborate on [Chatminds- recognised by Google](https://ai.google.dev/competition/projects/chatminds)
+- 👯 I'm looking to collaborate on [Chatminds- recognized by Google](https://ai.google.dev/competition/projects/chatminds)
 
 - 👨‍💻 All of my projects are available at [MY PROJECTS](https://www.oshoupadhyay.in/projects)
 
