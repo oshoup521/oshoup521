@@ -20,17 +20,18 @@
   </a> 
 </p>
 
-- 👯 I'm looking to collaborate on [Chatminds](https://ai.google.dev/competition/projects/chatminds)
+- 👯 I'm looking to collaborate on [Chatminds- recognised by Google](https://ai.google.dev/competition/projects/chatminds)
 
-- 👨‍💻 All of my projects are available at [https://www.oshoupadhyay.in](https://www.oshoupadhyay.in)
+- 👨‍💻 All of my projects are available at [MY PROJECTS](https://www.oshoupadhyay.in/projects)
 
-- 📝 I regularly write articles on [[https://oshotrips.wordpress.com/](https://www.oshoupadhyay.in/blog)]([https://oshotrips.wordpress.com/](https://www.oshoupadhyay.in/blog))
 
-- 💬 Ask me about **LLM, Gen AI, AI/ML Integration, Microservices & gRPC**
+- 📝 I regularly write articles on [MY BLOGS](https://www.oshoupadhyay.in/blog)
+
+- 💬 Ask me about **LLM, Gen AI, AI/ML Integration, Microservices**
 
 - 📫 How to reach me **oshoup521@gmail.com**
 
-- 📄 Know about my experiences [Click Here](https://harlequin-orly-52.tiiny.site/)
+- 📄 Know about my experiences [CLICK HERE](https://www.oshoupadhyay.in/experience)
 
 - ⚡ Fun fact **🌱 Currently teaching my code to brew the perfect cup of coffee ☕!**
 
