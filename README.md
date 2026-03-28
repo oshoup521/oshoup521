@@ -361,27 +361,22 @@
 
 <div align="center">
 
-<!-- BLOG-POST-LIST:START -->
-  <a href="https://fearfreecode.wordpress.com/2025/04/05/why-everyone-is-talking-about-mcp/">
-    <img src="https://img.shields.io/badge/WHY%20Everyone%20Is%20Talking%20About%20MCP%3F-412991?style=for-the-badge&logo=wordpress&logoColor=white" alt="WHY everyone is talking about MCP?"/>
-  </a>
-  &nbsp;
-  <a href="https://fearfreecode.wordpress.com/2023/02/03/merge-two-sorted-lists/">
-    <img src="https://img.shields.io/badge/Merge%20Two%20Sorted%20Lists-0072b1?style=for-the-badge&logo=wordpress&logoColor=white" alt="Merge Two Sorted Lists"/>
-  </a>
-  &nbsp;
-  <a href="https://fearfreecode.wordpress.com/2023/01/30/find-pivot-index/">
-    <img src="https://img.shields.io/badge/Find%20Pivot%20Index-4CAF50?style=for-the-badge&logo=wordpress&logoColor=white" alt="Find Pivot Index"/>
-  </a>
-  &nbsp;
-  <a href="https://fearfreecode.wordpress.com/2023/01/20/sdm-in-coders-life/">
-    <img src="https://img.shields.io/badge/SDM%20in%20Coder's%20Life-FF5722?style=for-the-badge&logo=wordpress&logoColor=white" alt="SDM in Coder's Life"/>
-  </a>
-  &nbsp;
-  <a href="https://fearfreecode.wordpress.com/2023/01/20/isomorphic-strings/">
-    <img src="https://img.shields.io/badge/Isomorphic%20Strings-E91E63?style=for-the-badge&logo=wordpress&logoColor=white" alt="Isomorphic Strings"/>
-  </a>
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START --><a href="https://fearfreecode.wordpress.com/2025/04/05/why-everyone-is-talking-about-mcp/">
+  <img src="https://img.shields.io/badge/
+_title-0075ca?style=for-the-badge&logo=google-chrome&logoColor=white" alt="WHY everyone is talking about MCP?"/>
+</a>&nbsp;<a href="https://fearfreecode.wordpress.com/2023/02/03/merge-two-sorted-lists/">
+  <img src="https://img.shields.io/badge/
+_title-0075ca?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Merge Two Sorted Lists"/>
+</a>&nbsp;<a href="https://fearfreecode.wordpress.com/2023/01/30/find-pivot-index/">
+  <img src="https://img.shields.io/badge/
+_title-0075ca?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Find Pivot Index"/>
+</a>&nbsp;<a href="https://fearfreecode.wordpress.com/2023/01/20/sdm-in-coders-life/">
+  <img src="https://img.shields.io/badge/
+_title-0075ca?style=for-the-badge&logo=google-chrome&logoColor=white" alt="SDM In Coders Life"/>
+</a>&nbsp;<a href="https://fearfreecode.wordpress.com/2023/01/20/isomorphic-strings/">
+  <img src="https://img.shields.io/badge/
+_title-0075ca?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Isomorphic Strings"/>
+</a>&nbsp;<!-- BLOG-POST-LIST:END -->
 
 </div>
 
