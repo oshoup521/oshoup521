@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Osho Upadhyay</h1>
-<h3 align="center">🚀 Node.js Developer | Generative AI Enthusiast</h3>
+<h3 align="center">🚀 Python Developer | Generative AI Enthusiast</h3>
 <h3 align="center">Crafting scalable backend solutions and exploring the frontiers of AI to create meaningful and innovative applications.</h3>
 
 <p align="center">
